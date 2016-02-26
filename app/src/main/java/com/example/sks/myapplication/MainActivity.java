@@ -29,6 +29,8 @@ public class MainActivity extends Activity {
         BeiGuanChaZhe.register(guanC);
         BeiGuanChaZhe.setDate("第二次改变");
 
+        //第一次修改
+
     }
 
     @Override
